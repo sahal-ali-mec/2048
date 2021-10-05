@@ -17,3 +17,9 @@ steps used :
 4. take the input (each move), check for validity and perform the corresponding merging. 
 5. add a random value to the board after each move
 6. functions for checking win or lose
+
+screenshots: 
+![Annotation 2021-10-05 114406](https://user-images.githubusercontent.com/91930683/135972599-058b50c3-9b81-4740-a9d3-4d50ee603fa5.png)
+![Annotation 2021-10-05 113911](https://user-images.githubusercontent.com/91930683/135972867-1bd66d42-3c32-4b55-95e8-a6827990559b.png)
+![Annotation 2021-10-05 113912](https://user-images.githubusercontent.com/91930683/135972882-cca933ff-6fc1-4154-9d48-fc4c49ebbccc.png)
+![Annotation 2021-10-05 113910](https://user-images.githubusercontent.com/91930683/135972899-3e9811df-af9a-433c-8538-9d93a1397708.png)
